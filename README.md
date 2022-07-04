@@ -1,2 +1,5 @@
 # AutoSend_Email
-  Send Mail Response to Other mail IDs via asp.net core webAPI
+
+## Project Type: WebAPI ##
+
+      Sending Mail Response automatically to the User.
